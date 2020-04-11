@@ -1,11 +1,27 @@
+---
+title: Literature Review on Mental Health Digital Solutions
+author: Gregory Lum
+output: html_document
+runtime: shiny
+---
 
-## Research Notes ##
 
-#Keywords & Terms#
 
-	Social Determinants of (Mental) Health
-	Health Inequities
-	Health Disparities
-	
+
+
+### Keywords & Terms
+
+	*Social Determinants of (Mental) Health
+	*Health Inequities
+	*Health Disparities
+ 
+### Images & Figures 
+![Framework](/home/greg/Documents/Research/Images/Framework.png)
+
+
+### Papers 
+
+
+    
 
 
