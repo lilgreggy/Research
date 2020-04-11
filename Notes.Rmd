@@ -14,14 +14,16 @@ runtime: shiny
 	*Social Determinants of (Mental) Health
 	*Health Inequities
 	*Health Disparities
- 
+	 
 ### Images & Figures 
 ![Framework](/home/greg/Documents/Research/Images/Framework.png)
 
 
 ### Papers 
 
+### Notes
 
+Gaps between database (SQL) and visualization/application of SDH
     
 
 
