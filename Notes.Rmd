@@ -20,10 +20,11 @@ runtime: shiny
 
 
 ### Papers 
+NASEM.SDOMH
 
 ### Notes
 
 Gaps between database (SQL) and visualization/application of SDH
     
-
+"Understanding how social determinants lead to health inequities - intersectionality" 
 
